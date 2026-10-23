@@ -7,4 +7,4 @@ Open items for publishing this archive (written 2026-10-23).
   - [x] Set Custom domain to `mycoffeehunt.com.au` in Settings → Pages.
   - [x] DNS: point the apex at GitHub Pages with four A records (`185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`) and a `www` CNAME to `directcoffee-admin.github.io`. Note this replaces whatever the domain serves today.
   - [x] Enforce HTTPS.
-- [ ] Optional: move the contents of `mycoffeehunt.com.au/` to the repo root so URLs are `mycoffeehunt.com.au/` rather than `mycoffeehunt.com.au/mycoffeehunt.com.au/` (the root `index.html` redirect currently covers this).
+- [x] Moved the site from the `mycoffeehunt.com.au/` subfolder to the repo root, so the homepage is `https://mycoffeehunt.com.au/` (once merged to `main`).

@@ -12,7 +12,7 @@ CSS/JS inlined, plus every image asset it references.
 To view it, open:
 
 ```
-mycoffeehunt.com.au/index.html
+index.html
 ```
 
 in any web browser. Links have been rewritten for offline viewing.
@@ -20,7 +20,7 @@ in any web browser. Links have been rewritten for offline viewing.
 ## Contents
 
 ```
-mycoffeehunt.com.au/
+./
 ├── index.html                     # Homepage (CSS + JS inlined)
 └── assets/images/
     ├── card.jpg                   # Open Graph / social share image
